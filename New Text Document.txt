@@ -1,0 +1,49 @@
+<divc class="card">
+                <div class="icon">
+                    <i class="fa-duotone fa-unlock"></i>
+                </div>
+                <div class="info">
+                    <h3>Free</h3>
+                    <h4>$0/month</h4>
+                    <ul>
+                        <li>Free for liftime</li>
+                        <li>Limited shows</li>
+                        <li>Limited mangas</li>
+                        <li>On-Air episodes after 1 month</li>
+                        <li>Standard Quality</li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <div class="icon">
+                        <i class="fa-solid fa-lock"></i>
+                    </div class="info">
+                    <h3>pro</h3>
+                    <h4>$20/month</h4>
+                    <ul>
+                        <li>Only on 1 device</li>
+                        <li>All shows</li>
+                        <li>All mangas</li>
+                        <li>On-Air episodes after 2 hours</li>
+                        <li>High Quality</li>
+                    </ul>
+                    <div>
+                        <div class="card">
+                            <div class="icon">
+                                <i class="fa-light fa-money-check-dollar"></i>
+                                <div class="info">
+                                    <h3>premium</h3>
+                                    <h4>$100/year
+                                        <ul>
+                                            <li>Upto 4 devices</li>
+                                            <li>All shows</li>
+                                            <li>All mangas</li>
+                                            <li>On-Air episodes after 2 hours</li>
+                                            <li>Highest Quality(4K)</li>
+                                        </ul>
+                                    </h4>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
